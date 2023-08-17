@@ -1,3 +1,5 @@
 corn
 millet
 rice
+beans
+peas
