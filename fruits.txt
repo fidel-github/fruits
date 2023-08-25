@@ -1,5 +1,5 @@
-pine apple
-orange
-guava
-banana
-cherry
+pine apples
+oranges
+guavas
+bananas
+cherries
